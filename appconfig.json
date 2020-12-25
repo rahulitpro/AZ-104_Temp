@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/InstallIIS.ps1"],
+  "fileUris": ["https://raw.githubusercontent.com/rahulitpro/AZ-104_Temp/main/InstallIIS.ps1"],
   "commandToExecute": "powershell.exe ./InstallIIS.ps1"
 }
